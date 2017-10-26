@@ -1,3 +1,9 @@
+//This is Crossword #1, published 10/25/17. It's still a prototype program, so be gentle!
+//
+//To type in a square, click anywhere inside it, then type a letter. Typing again will *not*
+//replace it with a new letter, so make sure to clear the square before revising your board.
+//You can do this by clicking inside the square and pressing the space bar.
+
 void setup(){
   size(750,750);
   background(255);
